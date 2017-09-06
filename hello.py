@@ -1,3 +1,3 @@
-print "hell python!"
+print "Monty Python!"
 
-hello
+Watch funny
